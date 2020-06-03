@@ -1,5 +1,7 @@
 # isomorphic-express-vue
 
+[![Build Status](https://travis-ci.org/sistemasnegros/isomorphic-express-vue.svg?branch=master)](https://travis-ci.org/github/sistemasnegros/isomorphic-express-vue)
+
 ## Features
 
 - [vue 2](https://vuejs.org/)
